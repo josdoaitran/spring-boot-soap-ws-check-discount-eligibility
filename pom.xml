@@ -11,7 +11,7 @@
     </parent>
     <groupId>com.javatechie</groupId>
     <artifactId>spring-boot-sopa-ws</artifactId>
-    <version>1.2.1T</version>
+    <version>4.3.3</version>
     <name>spring-boot-soap-ws</name>
     <description>Demo project for Spring Boot</description>
 
