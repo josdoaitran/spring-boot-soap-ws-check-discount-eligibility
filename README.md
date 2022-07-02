@@ -1,0 +1,1 @@
+# spring-boot-soap-ws-check-discount-eligibility
