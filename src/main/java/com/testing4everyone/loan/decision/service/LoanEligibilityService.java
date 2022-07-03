@@ -6,7 +6,7 @@ import com.testing4everyone.loan.decision.loaneligibility.CustomerRequest;
 import org.springframework.stereotype.Service;
 
 @Service
-public class DiscountEligibilityService {
+public class LoanEligibilityService {
     public Acknowledgement checkLoanEligibility(CustomerRequest request) {
         Acknowledgement acknowledgement = new Acknowledgement();
         List<String> mismatchCriteriaList = acknowledgement.getCriteriaMismatch();
