@@ -17,6 +17,13 @@ Expose the API to verify who will be eligibility to apply Loan for a customer.
   + `Approve Amount`
   + `Mismatch Criteria`
 
+## Run the service:
+Run SpringbootSoapWsApplication.java file 
+or using `Dockerfile`
+
+Access WSDL of service: http://localhost:8080/ws/loanEligibility.wsdl
+
+
 ## Reference:
 - https://spring.io/
 - https://github.com/Java-Techie-jt/spring-boot-soap-ws
