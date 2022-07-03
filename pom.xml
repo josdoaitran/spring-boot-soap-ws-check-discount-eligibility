@@ -9,11 +9,11 @@
         <version>2.1.4.RELEASE</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.javatechie</groupId>
+    <groupId>com.testing4everyone</groupId>
     <artifactId>spring-boot-sopa-ws</artifactId>
     <version>4.3.3</version>
     <name>spring-boot-soap-ws</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo project for Spring Boot Soap WS</description>
 
     <properties>
         <java.version>1.8</java.version>
