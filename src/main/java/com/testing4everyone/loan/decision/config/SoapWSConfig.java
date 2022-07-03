@@ -1,4 +1,4 @@
-package com.testing4everyone.discount.eligibility.config;
+package com.testing4everyone.loan.decision.config;
 
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
 import org.springframework.context.ApplicationContext;

@@ -1,10 +1,9 @@
-package com.testing4everyone.discount.eligibility.service;
+package com.testing4everyone.loan.decision.service;
 import java.util.List;
 
+import com.testing4everyone.loan.decision.loaneligibility.Acknowledgement;
+import com.testing4everyone.loan.decision.loaneligibility.CustomerRequest;
 import org.springframework.stereotype.Service;
-import com.testing4everyone.discount.eligibility.discounteligibility.Acknowledgement;
-import com.testing4everyone.discount.eligibility.discounteligibility
-        .CustomerRequest;
 
 @Service
 public class DiscountEligibilityService {
